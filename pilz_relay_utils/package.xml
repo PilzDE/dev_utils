@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pilz_relay_utils</name>
+  <version>0.0.0</version>
+  <description>Utilities used in ROS development</description>
+
+  <maintainer email="a.gutenkunst@pilz.de">Alexander Gutenkunst</maintainer>
+  <maintainer email="c.henkel@pilz.de">Christian Henkel</maintainer>
+  <maintainer email="i.martini@pilz.de">Immanuel Martini</maintainer>
+  <maintainer email="r.feistenauer@pilz.de">Richard Feistenauer</maintainer>
+
+  <license>Apache</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>sainsmart_relay_usb</exec_depend>
+
+</package>
